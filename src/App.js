@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
-import "./App.css";
+import "./app-css/App.css";
+import "./app-css/App-dark.css";
 
 function App() {
   document.title = "Importance of Web Development";
