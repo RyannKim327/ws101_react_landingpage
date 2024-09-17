@@ -1,0 +1,2 @@
+.App{display:grid;grid-template-areas:"left right" "footer footer";>section{display:flex;flex-direction:column;grid-area:left;>ul{display:flex;flex-direction:column}}>main{grid-area:right}>footer{grid-area:footer}}
+/*# sourceMappingURL=main.b47b6fe3.css.map*/
