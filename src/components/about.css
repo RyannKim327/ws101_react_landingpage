@@ -1,0 +1,16 @@
+.about {
+  height: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+
+  > div {
+    height: 80%;
+    box-sizing: border-box;
+    overflow: scroll;
+    padding: 0.25rem;
+
+    > fieldset {
+      border-radius: 0.5rem;
+    }
+  }
+}
